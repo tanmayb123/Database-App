@@ -6,8 +6,11 @@ for yourself.
 To make this work, follow these steps:
 
 1) Adjust the PHP end to work with your website
+
 2) Upload the PHP end to your website
+
 3) Adjust the iOS end to work with your PHP
+
 4) Try it out!
 
 This will also work without modifying, since it is connected to my database. You may try it out with my database.
