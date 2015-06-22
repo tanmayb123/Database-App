@@ -1,8 +1,8 @@
 <?php
 $host = "localhost"; //database host server
-$db = "Friends"; //database name
-$user = "Tanmay_Bakshi"; //database user
-$pass = "tanmayb123"; //password
+$db = "DBHERE"; //database name
+$user = "USERHERE"; //database user
+$pass = "PASSHERE"; //password
 
 $connection = mysql_connect($host, $user, $pass);
 
